@@ -26,6 +26,7 @@ Analysis of Kickstarter Campaigns for proposed project funding, completed Decemb
    * 75% of goals were $5,000 or less and only 25% of plays raised pledges above $5,699.
    * Failed Kickstarter campaigns for plays tended to have higher goals (mean of $10,554 and median of $5,000), but raised significantly less than successfully funded plays.
 ![Success vs Failed US Play Goals](https://user-images.githubusercontent.com/93058069/145688571-8437de61-3da9-4a1f-a999-45a1a64c770e.png)
+
 ---
 ## Recommendations
 To set-up Louise for the best chance of a success Kickstarter campaign, I recommend she adhere to the following guidelines:
