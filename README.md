@@ -29,9 +29,10 @@ When looking at the outcome of completed campaigns for plays based on different 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/93058069/146107003-f8bb7997-ed6b-477f-8dfb-3e7d59ac3c5d.png)
 
 ### Challenges and Difficulties Encountered
-* Although theater was the most common category of Kickstarter campaigns (1,393 out of 4,114 total campaigns), and plays were the most common subcategory (1,066 out of 4,114 total campaigns), the data is skewed right with 17% of data points being outliers (using median/IQR range calculation.)
-* Amount of publicity, fame of associated playwright, or virality of Kickstarter campaigns was not examined.
-* Given the ongoing pandemic, using data from 2009-2017 is unlikely to accurately represent people's willingness to fund or attend plays in current times.
+I did not encounter specific difficulties with this dataset, but there are some challenges to making recommendations based on the limitations of the dataset:
+ * Although theater was the most common category of Kickstarter campaigns (1,393 out of 4,114 total campaigns), and plays were the most common subcategory (1,066 out of 4,114 total campaigns), the data is skewed right with 17% of data points being outliers (using median/IQR range calculation.)
+ * Amount of publicity, fame of associated playwright, or virality of Kickstarter campaigns was not examined.
+ * Given the ongoing pandemic, using data from 2009-2017 is unlikely to accurately represent people's willingness to fund or attend plays in current times.
 ---
 
 ## Results
