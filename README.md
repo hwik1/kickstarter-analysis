@@ -1,5 +1,5 @@
 # Kickstarting with Excel
-Analysis of Kickstarter campaign results for proposed project funding, completed December 2021 by Hannah Wikum for Louise
+Analysis of Kickstarter campaign results for proposed project funding; completed December 2021 by Hannah Wikum for Louise
 ---
 ## Overview of Project
 Louise is trying to raise funds on Kickstarter to cover the $10,000 estimated budget for her new play _Fever._ The results of previous Kickstarter campaigns were analyzed to set her up for the best chance of a successful campaign.
